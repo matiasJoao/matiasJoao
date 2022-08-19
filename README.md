@@ -1,4 +1,4 @@
-## Oi,me chamo Matias e sou desenvolvedor full stack 
+## Oi,me chamo Matias e sou desenvolvedor web full stack 
 <div align="center">
   <a href="https://github.com/matiasJoao">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=matiasJoao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

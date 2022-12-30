@@ -1,12 +1,13 @@
-## Oi, me chamo Matias e sou desenvolvedor web full stack 
+## Oi, me chamo Matias e sou desenvolvedor full stack 
 
 <div align="center">
   <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
+   <img align="center" height="50" width="70"  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+   <img align="center" height="50" width="70"  src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg">
   <img align="center"  height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
-  <img align="center" height="50" width="70"  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" height="50" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg"/>
   <img align="center" height="60" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"/>
 </div>  

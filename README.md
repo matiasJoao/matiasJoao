@@ -22,5 +22,4 @@
 
 ##
 
-  ![Snake animation](https://github.com/matiasJoao/matiasJoao/blob/output/github-contribution-grid-snake.svg)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=matiasJoao&layout=compact&bg_color=000&border_color=BF40BF&title_color=BF40BF&text_color=FFF)
